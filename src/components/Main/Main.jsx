@@ -22,7 +22,7 @@ const {onSent, recentPrompt, showResult, loading, resultData, setInput, input} =
 ?<>
 
 <div className="greet">
-        <p><span>Hello, Dev </span></p>
+        <p><span>Hello, Developer </span></p>
         <p>How Can I help you today?</p>
     </div>
 
